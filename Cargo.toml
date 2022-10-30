@@ -1,3 +1,4 @@
 [workspace]
 members = ["concepts/ownership",
-           "concepts/referencing"]
+           "concepts/referencing",
+           "concepts/structs"]
