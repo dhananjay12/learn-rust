@@ -2,4 +2,6 @@
 members = ["concepts/ownership",
            "concepts/referencing",
            "concepts/structs",
-           "concepts/traits","concepts/collections_and_enums"]
+           "concepts/traits",
+           "concepts/collections_and_enums",
+           "concepts/closures_and_threads"]
