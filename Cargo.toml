@@ -4,4 +4,6 @@ members = ["concepts/ownership",
            "concepts/structs",
            "concepts/traits",
            "concepts/collections_and_enums",
-           "concepts/closures_and_threads"]
+           "concepts/closures_and_threads",
+           "games/invaders"
+           ]
